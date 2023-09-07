@@ -1,4 +1,4 @@
-# Frontend Mentor - solução de componente de código QR
+# Frontend Mentor - Profile card component solution
 
 Esta é uma solução para o [Desafio do "Profile card component" no Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
